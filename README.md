@@ -12,3 +12,7 @@ The project consist of three parts
 - A CNN with pretrained weights from ImageNet.
 
 First part is in the shallow-learners script, and the two later parts are in the deep-learning script.
+
+
+TODO:
+Clean up, and possible redo in a more structured manner.
